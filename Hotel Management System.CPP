@@ -1029,23 +1029,7 @@ class control
 	  bar(24,57,598,463);
 	  rectangle(24,57,598,463);
 	  setcolor(5);
-	  settextstyle(1,0,5);
-	  outtextxy(85,5,"ACKNOWLEDGEMENT");
-	  settextstyle(1,0,3);
 	  setcolor(BLACK);
-	  outtextxy(80,60,"I wish to express my deep and heartiest");
-	  outtextxy(40,90,"thanks to my sir :Mr. RAMESH YADAV whose");
-	  outtextxy(40,120,"valueable advice,guidence and helped me a  ");
-	  outtextxy(40,150,"lot in doing this project from conception to");
-	  outtextxy(40,180,"completion ");
-	  outtextxy(100,210,"I am also very thankful to my parents ");
-	  outtextxy(40,240,"and friends who gave me moral encouragement ");
-	  outtextxy(40,270,"to make this project a success.");
-	  outtextxy(40,300,"SUBMITTED BY:-         ");
-	  outtextxy(40,330,"VINEETA                ");
-	  outtextxy(40,360,"B.TECH.III Year        ");
-	  outtextxy(40,390,"Shri Krishan Institute of      ");
-	  outtextxy(40,420,"Engg. & Technology      ");
 	  getch();
 	  cleardevice();
  
@@ -1063,14 +1047,8 @@ class control
 	  outtextxy(120,5,"VERIFICATION");
 	  settextstyle(1,0,3);
 	   setcolor(BLACK);
-	  outtextxy(40,60,"I VINEETA submitting this project");
-	    outtextxy(40,90,"as an evidence of my work in computer");
-	    outtextxy(40,120,"lab. in guidence of Mr.RAMESH YADAV ");
-	    outtextxy(40,190,"SUBMITTED BY:-              SUBMITTED TO:-");
-	    outtextxy(40,220,"VINEETA                     Mr.RAMESH YADAV");
-	     outtextxy(40,250,"B.TECH.III Year              lecturer in computer");
-	    outtextxy(40,280, "Shri Krishan Institute Of    Hartron Workstation ");
-	     outtextxy(40,310,"Engg. & Technology                               ");
+	    outtextxy(40,190,"BY:-              );
+	    outtextxy(40,220,"Pawandeep Singh                     );
 	  getch();
 	  cleardevice();
  
