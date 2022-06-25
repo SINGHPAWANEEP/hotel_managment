@@ -1047,8 +1047,8 @@ class control
 	  outtextxy(120,5,"VERIFICATION");
 	  settextstyle(1,0,3);
 	   setcolor(BLACK);
-	    outtextxy(40,190,"BY:-              );
-	    outtextxy(40,220,"Pawandeep Singh                     );
+	    outtextxy(40,190,"BY:-              ");
+	    outtextxy(40,220,"Pawandeep Singh                     ");
 	  getch();
 	  cleardevice();
  
